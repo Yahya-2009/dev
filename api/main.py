@@ -1,6 +1,6 @@
 #importing fastapi
 from fastapi import FastApi 
-
+from fastapi.middleware.cors import CORSMiddleware
 # Initialize the FastAPI application 
 app = FastApi(
     title="FastApi Example",
