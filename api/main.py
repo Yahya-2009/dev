@@ -52,4 +52,4 @@ def get_example2(name):    # can also pass in parameters
 # TO RUN:
 # 1. Put this code in api/main.py and deploy to Vercel
 # 2. Test by using your-vercel-backend-url/docs
-# 3. Later call from front-end using JavaScript fetch()
+# 3. Later call from front-end using JavaScript fetch() 
